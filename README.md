@@ -13,7 +13,9 @@ I've successfully met my targets, distilling the data to address key objectives 
 
 Explore the journey from data to decisions. Let's decode Vrinda Store's success story! ⚡
 
-Data Analytics through Google link - https://docs.google.com/spreadsheets/d/1uZcZwYg1EWXkIVUvmG-UxMpYFiuWlwI8eSNfnUbRkcw/edit?usp=sharing
-Exploratory Data Analytics through Python - https://colab.research.google.com/drive/1h5HfZ6tWN49Ln1CVOynoZkNzgO1TJg0w?usp=sharing
+1.) Data Analytics through Google link - https://docs.google.com/spreadsheets/d/1uZcZwYg1EWXkIVUvmG-UxMpYFiuWlwI8eSNfnUbRkcw/edit?usp=sharing
+
+
+2.) Exploratory Data Analytics through Python - https://colab.research.google.com/drive/1h5HfZ6tWN49Ln1CVOynoZkNzgO1TJg0w?usp=sharing
 
 
