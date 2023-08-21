@@ -19,3 +19,6 @@ Explore the journey from data to decisions. Let's decode Vrinda Store's success 
 2.) Exploratory Data Analytics through Python - https://colab.research.google.com/drive/1h5HfZ6tWN49Ln1CVOynoZkNzgO1TJg0w?usp=sharing
 
 
+3.) Power BI Data Analytics operation - https://drive.google.com/file/d/1j60ajaBIGghb5ngR8h6mjgTllYjkb6GD/view?usp=drive_link
+
+
